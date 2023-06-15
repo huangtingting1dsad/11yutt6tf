@@ -1,0 +1,7 @@
+echo "# 5211yutt6tfbn" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/erferfe/5211yutt6tfbn.git
+git push -u origin main
